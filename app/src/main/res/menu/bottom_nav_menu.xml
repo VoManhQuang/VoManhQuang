@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Tab Bookmark -->
+    <item
+        android:id="@+id/nav_bookmark"
+        android:icon="@drawable/img_1"
+        android:title="Bookmark" />
+
+    <!-- Tab Profile -->
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/img_2"
+        android:title="Profile" />
+</menu>
